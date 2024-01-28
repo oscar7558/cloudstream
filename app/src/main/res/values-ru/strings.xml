@@ -15,7 +15,7 @@
     <string name="cancel">Отмена</string>
     <string name="all">Все</string>
     <string name="pause">Пауза</string>
-    <string name="cast_format" formatted="true">Актёрский состав: %s</string>
+    <string name="cast_format" formatted="true">В ролях: %s</string>
     <string name="show_title">Название источника</string>
     <string name="login">Войти</string>
     <string name="none">Нет</string>
@@ -71,8 +71,8 @@
     <string name="downloaded">Скачано</string>
     <string name="downloading">Скачивание</string>
     <string name="download_paused">Скачать остановлена</string>
-    <string name="download_started">Скачать начатый</string>
-    <string name="download_canceled">Скачать отменённый</string>
+    <string name="download_started">Загрузка началась</string>
+    <string name="download_canceled">Загрузка отменена</string>
     <string name="download_done">Скачать выполнено</string>
     <string name="home_info">Инфо</string>
     <string name="update_started">Обновление началось</string>
@@ -99,11 +99,11 @@
     <string name="subs_background_color">Цвет фона</string>
     <string name="subs_window_color">Цвет окна</string>
     <string name="subs_edge_type">Тип края</string>
-    <string name="subs_subtitle_elevation">Субтитр подъём</string>
-    <string name="search_provider_text_providers">Поиск с использованием поставщиков</string>
+    <string name="subs_subtitle_elevation">Подъем субтитров</string>
+    <string name="search_provider_text_providers">Поиск с использованием провайдеров</string>
     <string name="search_provider_text_types">Поиск с использованием типов</string>
-    <string name="benene_count_text">%d Бенены данность на разрабы</string>
-    <string name="benene_count_text_none">Бенены не дают</string>
+    <string name="benene_count_text">%d бенен(а/ов) выдано разрабам</string>
+    <string name="benene_count_text_none">Бенены не выданы</string>
     <string name="subs_auto_select_language">Автовыбор языка</string>
     <string name="subs_download_languages">Скачать языки</string>
     <string name="subs_subtitle_languages">Язык субтитров</string>
@@ -132,7 +132,7 @@
     <string name="picture_in_picture">Картинка в картинке</string>
     <string name="picture_in_picture_des">Продолжение воспроизведения в миниатюрном проигрывателе поверх других приложений</string>
     <string name="player_size_settings">Кнопка изменения размера проигрывателя</string>
-    <string name="player_size_settings_des">Удалите черные границы</string>
+    <string name="player_size_settings_des">Убрать черные границы</string>
     <string name="player_subtitles_settings">Субтитры</string>
     <string name="player_subtitles_settings_des">Настройки субтитров проигрывателя</string>
     <string name="chromecast_subtitles_settings">Субтитры Chromecast</string>
@@ -150,13 +150,13 @@
     <string name="restore_failed_format" formatted="true">Не удалось восстановить данные из %s</string>
     <string name="backup_failed">Отсутствует разрешение на хранение. Пожалуйста попробуйте снова.</string>
     <string name="category_account">Аккаунты</string>
-    <string name="category_updates">Обновления и резервное</string>
+    <string name="category_updates">Обновления и резервное копирование</string>
     <string name="settings_info">Информация</string>
     <string name="advanced_search">Расширенный поиск</string>
     <string name="show_trailers_settings">Показывать трейлеры</string>
-    <string name="pref_filter_search_quality">Скрыть выбранное качество видео в результатах поиска</string>
-    <string name="automatic_plugin_updates">Автоматическое обновление плагинов</string>
-    <string name="automatic_plugin_download">Автоматическая загрузка плагинов</string>
+    <string name="pref_filter_search_quality">Скрыть выбранные форматы видео в результатах поиска</string>
+    <string name="automatic_plugin_updates">Автообновление плагинов</string>
+    <string name="automatic_plugin_download">Автозагрузка плагинов</string>
     <string name="updates_settings">Показать обновления приложения</string>
     <string name="updates_settings_des">Автоматически проверять обновления при старте приложения.</string>
     <string name="uprereleases_settings">Обновится до пре-релиза</string>
@@ -197,10 +197,10 @@
     <string name="season">Сезон</string>
     <string name="anim">Аниме приложение от тех же разработчиков</string>
     <string name="automatic_plugin_download_summary">Автоматически загружать еще не установленные плагины из добавленных репозиториев.</string>
-    <string name="discord">Присоединится в Discord</string>
-    <string name="free_storage">Бесплатно</string>
+    <string name="discord">Присоединиться к Discord-серверу</string>
+    <string name="free_storage">Свободно</string>
     <string name="next_episode_time_min_format" formatted="true">%dm</string>
-    <string name="next_episode_time_hour_format" formatted="true">%1$d ч. %2$d мин.</string>
+    <string name="next_episode_time_hour_format" formatted="true">%1$dч %2$dм</string>
     <string name="movies">Фильмы</string>
     <string name="cartoons_singular">Мультфильм</string>
     <string name="tv_series">Сериалы</string>
@@ -218,7 +218,7 @@
     <string name="asian_drama_singular">Азиатская драма</string>
     <string name="category_general">Общие</string>
     <string name="category_providers">Провайдеры</string>
-    <string name="category_ui">Макет</string>
+    <string name="category_ui">Расстановка</string>
     <string name="pref_category_extensions">Расширения</string>
     <string name="category_player">Плеер</string>
     <string name="backup_settings">Резервное копирование данных</string>
@@ -246,25 +246,25 @@
     <string name="legal_notice">Оговорка</string>
     <string name="subtitle_offset">Синхронизация субтитров</string>
     <string name="add_site_summary">Добавить клон существующего сайта с другим URL-адресом</string>
-    <string name="dns_pref_summary">Используется для обхода блокировок интернет провайдера</string>
+    <string name="dns_pref_summary">Используется для обхода блокировок интернет-провайдера</string>
     <string name="download_path_pref">Путь скачивания</string>
     <string name="benene_des">Давал бенен</string>
     <string name="update">Обновить</string>
     <string name="primary_color_settings">Основной цвет</string>
-    <string name="provider_lang_settings">Языки поставщиков</string>
+    <string name="provider_lang_settings">Языки провайдеров</string>
     <string name="repository_name_hint">Название репозитория</string>
     <string name="clear_history">Очистить историю</string>
     <string name="referer">Referer</string>
     <string name="benene">Дайте бенен разрабам</string>
     <string name="pref_category_links">Ссылки</string>
-    <string name="pref_category_player_layout">Макет</string>
-    <string name="app_layout">Макет приложения</string>
+    <string name="pref_category_player_layout">Расстановка</string>
+    <string name="app_layout">Расстановка приложения</string>
     <string name="app_theme_settings">Тема приложения</string>
     <string name="add_repository">Добавить репозиторий</string>
     <string name="action_remove_from_watched">Убрать отметку</string>
     <string name="confirm_exit_dialog">Вы уверены, что хотите выйти\?</string>
     <string name="plugin_downloaded">Плагин скачан</string>
-    <string name="plugin_deleted">Плагин удалён</string>
+    <string name="plugin_deleted">Плагин удален</string>
     <string name="extension_description">Описание</string>
     <string name="extension_version">Версия</string>
     <string name="extension_status">Статус</string>
@@ -276,7 +276,7 @@
     <string name="skip_type_format" formatted="true">Пропустить %s</string>
     <string name="skip_type_ed">Концовка</string>
     <string name="use_system_brightness_settings_des">Используйте яркость системы в проигрывателе приложения вместо темного наложения</string>
-    <string name="episode_sync_settings">Обновить состояние хода просмотра</string>
+    <string name="episode_sync_settings">Обновлять прогресс просмотра</string>
     <string name="backup_success">Данные сохранены</string>
     <string name="advanced_search_des">Показывает результаты поиска, разделенные по провайдеру</string>
     <string name="uprereleases_settings_des">Поиск предварительных обновлений вместо полных выпусков</string>
@@ -302,7 +302,7 @@
     <string name="dont_show_again">Больше не показывать</string>
     <string name="skip_update">Пропустить это обновление</string>
     <string name="nginx_url_pref">URL сервера NGINX</string>
-    <string name="create_account">Создать учётную запись</string>
+    <string name="create_account">Создать аккаунт</string>
     <string name="add_sync">Добавить слежение</string>
     <string name="added_sync_format" formatted="true">Добавлено %s</string>
     <string name="upload_sync">Синхронизировать</string>
@@ -325,7 +325,7 @@
     <string name="video_buffer_clear_settings">Отчистить кеш видео и изображений</string>
     <string name="video_ram_description">Вызывает сбои, если установлено слишком высокое значение на устройствах с небольшим объемом памяти, таких как Android TV.</string>
     <string name="video_disk_description">Вызывает проблемы, если установлено слишком высокое значение на устройствах с небольшим объемом памяти, таких как Android TV.</string>
-    <string name="lightnovel">Легкая новелла от тех же разработчиков</string>
+    <string name="lightnovel">Легкое приложение для новелл от тех же разработчиков</string>
     <string name="extension_language">Язык</string>
     <string name="hls_playlist">Плейлист HLS</string>
     <string name="extension_install_first">Сначала установить расширение</string>
@@ -344,13 +344,13 @@
     <string name="emulator_layout">Эмулятор</string>
     <string name="bottom_title_settings_des">Под плакатом</string>
     <string name="example_password">parol123</string>
-    <string name="example_username">МоёИмяПользователя</string>
-    <string name="switch_account">Сменить учётную запись</string>
-    <string name="add_account">Добавить учётную запись</string>
+    <string name="example_username">КрутоеИмяПользователя</string>
+    <string name="switch_account">Сменить аккаунт</string>
+    <string name="add_account">Добавить аккаунт</string>
     <string name="example_site_name">МойКрутойСайт</string>
     <string name="example_site_url">example.com</string>
     <string name="example_lang_name">Код языка (ru)</string>
-    <string name="account">учётная запись</string>
+    <string name="account">аккаунт</string>
     <string name="automatic">Автоматически</string>
     <string name="example_ip">127.0.0.1</string>
     <string name="pref_category_app_updates">Обновления приложения</string>
@@ -461,7 +461,7 @@
     <string name="player_load_subtitles_online">Загрузить из интернета</string>
     <string name="update_notification_downloading">Загрузка обновления приложения…</string>
     <string name="error_invalid_url">Недопустимый URL</string>
-    <string name="apply_on_restart">Применить при перезапуске</string>
+    <string name="apply_on_restart">Будет применено при перезапуске</string>
     <string name="crash_reporting_title">Отчеты ошибках</string>
     <string name="preferred_media_subtext">Что вы хотите увидеть</string>
     <string name="provider_languages_tip">Смотрите видео на этих языках</string>
@@ -469,8 +469,8 @@
     <string name="poster_image">Изображение постера</string>
     <string name="batch_download">Пакетная загрузка</string>
     <string name="setup_extensions_subtext">Скачайте список сайтов, который вы хотите использовать</string>
-    <string name="display_subbed_dubbed_settings">Отображать Аниме с Дубляжом/Субтитрами</string>
-    <string name="enable_nsfw_on_providers">Включить NSFW на поддерживаемых провайдерах</string>
+    <string name="display_subbed_dubbed_settings">Отображать аниме с дубляжом/субтитрами</string>
+    <string name="enable_nsfw_on_providers">Включить NSFW у поддерживаемых провайдеров</string>
     <string name="subtitles_remove_captions">Удалять скрытые субтитры из субтитров</string>
     <string name="extras">Дополнительно</string>
     <string name="app_layout_subtext">Изменить вид интерфейса, чтобы соответствовать устройству</string>
@@ -491,11 +491,11 @@
     <string name="enable_skip_op_from_database_des">Показывать всплывающие окна для пропуска вступления/заключения</string>
     <string name="subtitles_filter_lang">Фильтровать по предпочитаемому языку медиа</string>
     <string name="error_invalid_id">Неверный ID</string>
-    <string name="network_adress_example">Ссылка на стрим</string>
-    <string name="random_button_settings_desc">Отображать рандомную кнопку на Главной странице</string>
+    <string name="network_adress_example">Ссылка на поток</string>
+    <string name="random_button_settings_desc">Отображать рандомную кнопку в библиотеке и главной странице</string>
     <string name="random_button_settings">Рандомная кнопка</string>
     <string name="apk_installer_legacy">Legacy (старый)</string>
-    <string name="player_settings_play_in_web">Веб видеокаст</string>
+    <string name="player_settings_play_in_web">Web Video Cast</string>
     <string name="bug_report_settings_on">Не отправляет данные</string>
     <string name="episode_action_reload_links">Перезагрузить ссылки</string>
     <string name="preferred_media_settings">Предпочтительные медиа</string>
@@ -520,12 +520,12 @@
     <string name="revert">Вернуться</string>
     <string name="subscription_new">Подписался на %s</string>
     <string name="watch_quality_pref_data">Предпочтительное качество видео (Мобильный интернет)</string>
-    <string name="jsdelivr_proxy">raw.githubusercontent.com Прокси-сервер</string>
-    <string name="jsdelivr_enabled">Не удалось подключиться к GitHub. Включаем проксирование через jsdelivr…</string>
+    <string name="jsdelivr_proxy">Прокси-сервер raw.githubusercontent.com</string>
+    <string name="jsdelivr_enabled">Не удалось подключиться к GitHub. Включаем проксирование через jsDelivr…</string>
     <string name="subscription_episode_released">Эпизод %d выпущен!</string>
     <string name="pref_category_bypass">Обходы провайдера</string>
     <string name="subscription_in_progress_notification">Обновление подписки на фильмы и сериалы</string>
-    <string name="jsdelivr_proxy_summary">Обход ограничения доступа к GitHub с помощью jsDelivr может задержать обновления на несколько дней.</string>
+    <string name="jsdelivr_proxy_summary">Обход ограничения доступа к GitHub с помощью jsDelivr. Обновления могут задержаться на несколько дней из-за этого.</string>
     <string name="subscription_list_name">Подписные</string>
     <string name="subscription_deleted">Отказались от подписки на %s</string>
     <string name="mobile_data">Мобильный интернет</string>
@@ -552,4 +552,44 @@
 \n
 \nПРИМЕЧАНИЕ. Если сумма равна 10 или более, плеер автоматически пропустит загрузку при загрузке этой ссылки!</string>
     <string name="links_reloaded_toast">Ссылки перезагружены</string>
+    <string name="select_an_account">Выбрать аккаунт</string>
+    <string name="favorite_removed">%s убран из избранных</string>
+    <string name="enter_pin">Введите пин-код</string>
+    <string name="lock_profile">Защитить профиль</string>
+    <string name="pin">Пин-код</string>
+    <string name="duplicate_title">Найден возможный дубликат</string>
+    <string name="duplicate_add">Добавить</string>
+    <string name="pin_error_incorrect">Неверный пин-код. Попробуйте снова.</string>
+    <string name="pin_error_length">Пин-код должен состоять из 4 цифр</string>
+    <string name="edit_account">Изменить аккаунт</string>
+    <string name="manage_accounts">Управление аккаунтами</string>
+    <string name="logged_account" formatted="true">Вы вошли как %s</string>
+    <string name="skip_startup_account_select_pref">Пропускать выбор аккаунта при запуске</string>
+    <string name="rotate_video">Повернуть</string>
+    <string name="rotate_video_desc">Показывать переключатель ориентации экрана</string>
+    <string name="duplicate_replace_all">Заменить все</string>
+    <string name="duplicate_message_multiple" formatted="true">Потенциальные дубликаты элементов были найдены в вашей библиотеке:
+\n
+\n\'%s.\'
+\n
+\nВы хотите добавить этот элемент, заменить существующие или отменить это действие?</string>
+    <string name="action_remove_from_favorites">Убрать из избранных</string>
+    <string name="action_add_to_favorites">Добавить в избранное</string>
+    <string name="auto_rotate_video_desc">Включить автоматическую смену ориентации экрана на основе ориентации видео</string>
+    <string name="auto_rotate_video">Автоповорот</string>
+    <string name="rotate_video_key">rotate_video_key</string>
+    <string name="use_default_account">Использовать аккаунт по умолчанию</string>
+    <string name="copyTitle">Название скопировано!</string>
+    <string name="action_unsubscribe">Отписаться</string>
+    <string name="duplicate_replace">Заменить</string>
+    <string name="enter_current_pin">Введите текущий пин-код</string>
+    <string name="auto_rotate_video_key">auto_rotate_video_key</string>
+    <string name="favorites_list_name">Избранное</string>
+    <string name="favorite_added">%s добавлен в избранное</string>
+    <string name="enter_pin_with_name" formatted="true">Введите пин-код от %s</string>
+    <string name="action_subscribe">Подписаться</string>
+    <string name="backup_frequency">Частота резервного копирования</string>
+    <string name="duplicate_message_single" formatted="true">Похоже, что потенциальный дубликат элемента уже существует в вашей библиотеке: \'%s.\'
+\n
+\nВы хотите добавить этот элемент, заменить существующий или отменить это действие?</string>
 </resources>

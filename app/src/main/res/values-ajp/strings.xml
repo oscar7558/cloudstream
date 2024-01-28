@@ -305,7 +305,7 @@
     <string name="play_episode">مشّي الحلقة</string>
     <string name="player_speed">سرعة الڤيديو</string>
     <string name="manage_accounts">تحكمو بالأكونتات</string>
-    <string name="example_lang_name">رمز اللغة (apc/ar/en)</string>
+    <string name="example_lang_name">رمز اللغة (ar)</string>
     <string name="create_account">عمول أكونت</string>
     <string name="enable_nsfw_on_providers">فرجي المحتوى الـ18+ بالمصادر يلي بتحتوي</string>
     <string name="preferred_media_settings">المحتوى المفضل</string>

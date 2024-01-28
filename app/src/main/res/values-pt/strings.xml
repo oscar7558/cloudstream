@@ -551,4 +551,10 @@
     <string name="no_plugins_found_error">Não foram encontrados plugins no repositório</string>
     <string name="no_repository_found_error">Repositório não encontrado, verifique o URL e tente a VPN</string>
     <string name="already_voted">Você já votou</string>
+    <string name="copyTitle">Título copiado!</string>
+    <string name="action_unsubscribe">Cancelar Subescrição</string>
+    <string name="action_subscribe">Subscrever</string>
+    <string name="favorites_list_name">Favoritos</string>
+    <string name="links_reloaded_toast">A recarregar links</string>
+    <string name="backup_frequency">Frequência de Backup</string>
 </resources>

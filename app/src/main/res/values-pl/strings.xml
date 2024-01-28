@@ -276,7 +276,7 @@
     <string name="legal_notice">Zastrzeżenie</string>
     <string name="category_general">Ogólne</string>
     <string name="random_button_settings">Przycisk do losowania</string>
-    <string name="random_button_settings_desc">Pokaż przycisk do losowania na stronie głównej</string>
+    <string name="random_button_settings_desc">Pokaż przycisk do losowania na stronie głównej i w bibliotece</string>
     <string name="provider_lang_settings">Języki źródeł</string>
     <string name="app_layout">Układ aplikacji</string>
     <string name="preferred_media_settings">Preferowane media</string>
@@ -592,4 +592,5 @@
     <string name="auto_rotate_video">Automatyczny obrót</string>
     <string name="rotate_video">Obrót</string>
     <string name="auto_rotate_video_desc">Włącz automatyczne przełączanie orientacji ekranu na podstawie orientacji filmu</string>
+    <string name="copyTitle">Skopiowano tytuł!</string>
 </resources>

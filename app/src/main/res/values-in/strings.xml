@@ -263,7 +263,7 @@
     <string name="legal_notice_text" translatable="false">Any legal issues regarding the content on this application should be taken up with the actual file hosts and providers themselves as we are not affiliated with them. In case of copyright infringement, please directly contact the responsible parties or the streaming websites. The app is purely for educational and personal use. CloudStream 3 does not host any content on the app, and has no control over what media is put up or taken down. CloudStream 3 functions like any other search engine, such as Google. CloudStream 3 does not host, upload or manage any videos, films or content. It simply crawls, aggregates and displayes links in a convenient, user-friendly interface. It merely scrapes 3rd-party websites that are publicly accessable via any regular web browser. It is the responsibility of user to avoid any actions that might violate the laws governing his/her locality. Use CloudStream 3 at your own risk.</string>
     <string name="category_general">Umum</string>
     <string name="random_button_settings">Tombol Acak</string>
-    <string name="random_button_settings_desc">Tampilkan tombol acak di Beranda</string>
+    <string name="random_button_settings_desc">Tampilkan tombol acak di Beranda dan Pustaka</string>
     <string name="provider_lang_settings">Bahasa provider</string>
     <string name="app_layout">Tata Letak Aplikasi</string>
     <string name="preferred_media_settings">Media yang lebih diinginkan</string>
@@ -607,4 +607,10 @@
     <string name="skip_startup_account_select_pref">Lewati pemilihan akun saat startup</string>
     <string name="manage_accounts">Kelola Akun</string>
     <string name="edit_account">Edit akun</string>
+    <string name="copyTitle">Judul disalin!</string>
+    <string name="rotate_video">Putar</string>
+    <string name="rotate_video_desc">Menampilkan tombol sakelar untuk orientasi layar</string>
+    <string name="links_reloaded_toast">Tautan Dimuat Ulang</string>
+    <string name="auto_rotate_video_desc">Mengaktifkan peralihan otomatis orientasi layar berdasarkan orientasi video</string>
+    <string name="auto_rotate_video">Putar otomatis</string>
 </resources>

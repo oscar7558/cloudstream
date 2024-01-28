@@ -171,7 +171,7 @@
     <string name="video_ram_description">Causera des crashs si la valeur choisie est trop élevée sur un appareil avec peu de ram comme une télévision android.</string>
     <string name="video_disk_description">Cause des problèmes si la valeur choisie est trop élevée sur un appareil avec peu de stockage comme une télévision android.</string>
     <string name="random_button_settings">Bouton aléatoire</string>
-    <string name="random_button_settings_desc">Afficher un bouton aléatoire sur la page d\'accueil</string>
+    <string name="random_button_settings_desc">Afficher un bouton aléatoire sur la page d\'accueil et la librairie</string>
     <string name="emulator_layout">Disposition émulateur</string>
     <string name="bottom_title_settings">Position du titre du poster</string>
     <string name="bottom_title_settings_des">Mettre le titre sous le poster</string>
@@ -585,4 +585,6 @@
 \n
 \nSouhaitez-vous ajouter cet élément, remplacer l\'élément existant ou annuler l\'action ?</string>
     <string name="enter_current_pin">Entrer le code PIN actuel</string>
+    <string name="rotate_video">Pivoter</string>
+    <string name="copyTitle">Titre copié !</string>
 </resources>

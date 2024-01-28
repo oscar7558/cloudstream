@@ -233,7 +233,7 @@
     <string name="reload_error">Újracsatlakozás…</string>
     <string name="swipe_to_seek_settings_des">Húzd balra vagy jobbra a videólejátszóban az idő vezérléséhez</string>
     <string name="swipe_to_change_settings">Csúsztassa ujját a beállítások módosításához</string>
-    <string name="swipe_to_change_settings_des">Csúsztassa felfelé vagy lefelé a bal vagy jobb oldalon a fényerő vagy a hangerő megváltoztatásához</string>
+    <string name="swipe_to_change_settings_des">Csúsztassa felf/le az ujját a bal/jobb oldalon a fényerő vagy a hangerő megváltoztatásához</string>
     <string name="backup_settings">Biztonsági mentés</string>
     <string name="benene_count_text_none">0 Banán a fejlesztőknek</string>
     <string name="swipe_to_seek_settings">Húzd el, hogy beless</string>
@@ -243,7 +243,7 @@
     <string name="double_tap_to_pause_settings">Dupla koppintás a szüneteltetéshez</string>
     <string name="double_tap_to_seek_amount_settings">Lejátszó keresési értéke (Másodpercben)</string>
     <string name="double_tap_to_seek_settings_des">Koppintson kétszer a jobb vagy bal oldalra az előre vagy hátra ugráshoz</string>
-    <string name="double_tap_to_pause_settings_des">Koppintson kétszer középen a szüneteltetéshez</string>
+    <string name="double_tap_to_pause_settings_des">Koppintson kétszer középre a szüneteltetéshez</string>
     <string name="use_system_brightness_settings">Rendszer fényerejének használata</string>
     <string name="use_system_brightness_settings_des">Rendszer fényerejének használata az appban a sötét átfedés helyett</string>
     <string name="episode_sync_settings">Előrehaladás frissítése</string>
@@ -286,7 +286,7 @@
     <string name="pref_category_ui_features">Funkciók</string>
     <string name="watch_quality_pref_data">Előnyben részesített videóminőség (mobilinternet)</string>
     <string name="limit_title">Videolejátszó cím max karakterek</string>
-    <string name="jsdelivr_enabled">Nem sikerült elérni a GitHubot, a jsdelivr proxy engedélyezése.</string>
+    <string name="jsdelivr_enabled">Nem sikerült elérni a GitHubot, a jsdelivr proxy bekapcsolva…</string>
     <string name="pref_category_extensions">Bővítmények</string>
     <string name="category_general">Általános</string>
     <string name="subtitles_encoding">Felirat kódolása</string>
@@ -333,8 +333,8 @@
     <string name="update_notification_downloading">Alkalmazásfrissítés letöltése…</string>
     <string name="sort_updated_new">Frissítve (újabbtól a régebbihez)</string>
     <string name="empty_library_no_accounts_message">Úgy tűnik, a könyvtárad üres :(
-\nJelentkezz be egy könyvtár fiókba, vagy adj hozzá műsorokat a helyi könyvtárodhoz</string>
-    <string name="empty_library_logged_in_message">Úgy tűnik, ez a lista üres, próbálj meg egy másikra váltani</string>
+\nJelentkezz be egy könyvtár fiókba, vagy adj hozzá műsorokat a helyi könyvtárodhoz.</string>
+    <string name="empty_library_logged_in_message">Úgy tűnik, ez a lista üres, próbálj meg egy másikra váltani.</string>
     <string name="max">Max</string>
     <string name="quality_4k">4K</string>
     <string name="quality_sdr">SDR</string>
@@ -372,7 +372,7 @@
     <string name="player_settings_play_in_mpv">MPV</string>
     <string name="app_not_found_error">Alkalmazás nem található</string>
     <string name="apk_installer_package_installer">PackageInstaller</string>
-    <string name="sort_by">Rendezés e szerint:</string>
+    <string name="sort_by">Rendezés e szerint</string>
     <string name="subscription_new">Feliratkozott a következőre: %s</string>
     <string name="example_site_name">MenőWeboldalam</string>
     <string name="quality_dvd">DVD</string>
@@ -381,7 +381,7 @@
     <string name="clear_history">Előzmények törlése</string>
     <string name="no">Nem</string>
     <string name="subscription_list_name">Feliratkozva</string>
-    <string name="subtitle_offset_extra_hint_later_format">Használd ezt, ha a feliratok %d ms-sel korábban jelennek meg.</string>
+    <string name="subtitle_offset_extra_hint_later_format">Használd ezt, ha a feliratok %d ms-sel korábban jelennek meg</string>
     <string name="category_player">Lejátszó</string>
     <string name="resolution_and_title">Felbontás és cím</string>
     <string name="player_pref">Előnyben részesített videolejátszó</string>

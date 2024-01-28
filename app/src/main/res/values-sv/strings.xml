@@ -138,7 +138,7 @@
     <string name="no_subtitles">Inga undertexter</string>
     <string name="action_default">Standard</string>
     <string name="free_storage">Tillgängligt</string>
-    <string name="used_storage">Använtt</string>
+    <string name="used_storage">Använt</string>
     <string name="app_storage">App</string>
     <string name="movies">Filmer</string>
     <string name="tv_series">Tv Serier</string>
@@ -180,8 +180,8 @@
     <string name="use_system_brightness_settings">Använd system ljusstyrka</string>
     <string name="use_system_brightness_settings_des">Använder systemets ljusstyrka instället för en svart överlaga</string>
     <string name="show_fillers_settings">Visa filler avsnitt för anime</string>
-    <string name="display_subbed_dubbed_settings">Visa Dubbad/Subbad anime</string>
-    <string name="resize_fit">Anpassad till skärmstorlek</string>
+    <string name="display_subbed_dubbed_settings">Visa dubbad/undertextad anime</string>
+    <string name="resize_fit">Anpassa till skärmstorlek</string>
     <string name="provider_lang_settings">Leverantörspråk</string>
     <string name="resize_fill">Utsträckt</string>
     <string name="resize_zoom">Inzoomad</string>
